@@ -1,0 +1,1 @@
+For scaliblity of our application we will deploy our app on cloud services such as AWS,GCP etc.. which can automatically scale the site with change in the no. of audience other than that we will go with less and only required functional requirements. Therefore the application will work fluently even for larger audiences.
